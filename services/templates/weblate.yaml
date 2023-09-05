@@ -1,5 +1,5 @@
 templateVersion: 1.0.0
-defaultVersion: edge-2023-07-23-76ef228a328611576b19058d3dae139fa3ad3399
+defaultVersion: edge-2023-09-04-9e837eb9ffac68a73b832f76e437cf04ac04be59
 documentation: https://docs.weblate.org/en/latest/admin/install/docker.html
 description: A copylefted libre software web-based continuous localization system.
 type: weblate

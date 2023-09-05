@@ -1,6 +1,6 @@
 templateVersion: 1.0.0
 ignore: true
-defaultVersion: postgresql-v2.3.0
+defaultVersion: postgresql-v2.6.2
 documentation: https://umami.is/docs/getting-started
 type: umami
 name: Umami

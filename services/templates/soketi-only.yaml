@@ -1,5 +1,4 @@
 templateVersion: 1.0.0
-defaultVersion: latest-16-distroless
 documentation: https://docs.soketi.app/
 isBeta: true
 type: soketi-only
