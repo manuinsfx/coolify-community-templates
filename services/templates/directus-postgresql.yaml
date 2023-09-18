@@ -28,7 +28,7 @@ services:
       - DB_CONNECTION_STRING=$$secret_db_connection_string
       - CACHE_ENABLED=true
       - CACHE_STORE=redis
-      - CACHE_REDIS=$$secret_cache_redis
+      - REDIS=$$secret_cache_redis
       - ADMIN_EMAIL=$$config_admin_email
       - ADMIN_PASSWORD=$$secret_admin_password
       - CACHE_AUTO_PURGE=true
